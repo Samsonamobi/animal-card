@@ -18,7 +18,7 @@ body{
 .container{
     display: flex;
     width: 450px;
-    height: 720px;
+    height: 730px;
     border-radius: 15px;
     flex-direction: column;
     align-items: center;
@@ -73,4 +73,12 @@ body{
 
 .container .weight{
     color: #fff;
+    margin-bottom: 10px;
+}
+
+/* footer */
+footer{
+    display: flex;
+    color: #fff;
+    padding-top: 50px;
 }
